@@ -1,0 +1,49 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('https://img.freepik.com/premium-photo/school-classroom-blur-background-without-young-student-blurry-view-elementary-class-room-no-kid-teacher-with-chairs-tables-campus-vintage-effect-style-pictures_839035-598768.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  background-size: cover;
+  background-position: center;
+}
+
+.submit-button {
+  background-color: #003802;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.submit-button:hover {
+  background-color: #013d04;
+}
+
+.cancel-button {
+  background-color: #013d04;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.cancel-button:hover {
+  background-color: #013d04;
+  color: white;
+}
