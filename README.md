@@ -15,5 +15,9 @@ The Registration Form app is a dynamic form built with React and Material UI, de
 **Deployed Link**:  
 You can check out the live version of the Registration Form here: [Registration Form Live](https://registration-react-three.vercel.app/).
 
-![Registration Form Screenshot](./registration-form-screenshot.jpeg)
+![Registration Form Screenshot](./Registration-screenshot.jpeg)
+
+
+
+
 
